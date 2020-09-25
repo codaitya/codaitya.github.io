@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Reading
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Recently Read
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- [Behave: The Biology of Humans at Our Best and Worst](https://www.goodreads.com/book/show/31170723-behave)
+- [Meditations by Marcus Aurelius](https://www.goodreads.com/book/show/30659.Meditations)
+- [Skunk Works: A Personal Memoir of My Years at Lockheed](https://www.goodreads.com/book/show/101438.Skunk_Works)
 
-What else do you need?
 
-### my history
+### All-time Favourites
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- [Surely Youre Joking Mr Feynman](https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_)
+- [Loonshots: How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries] (https://www.goodreads.com/book/show/39863447-loonshots)
+- [Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger](https://www.goodreads.com/book/show/944652.Poor_Charlie_s_Almanack)
+- [Shoe Dog](https://www.goodreads.com/book/show/27220736-shoe-dog)
+- [A Mathematician's Apology](https://www.goodreads.com/book/show/154060.A_Mathematician_s_Apology)
