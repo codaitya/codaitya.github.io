@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The Builder spirit
+title: Building great teams
 subtitle: Engineering , Craftsmanship et all.
-tags: [Teams]
+tags: [Engineering]
 ---
 
 ![Feynman](/img/feynman.jpeg)

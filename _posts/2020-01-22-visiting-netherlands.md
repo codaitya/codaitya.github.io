@@ -1,8 +1,5 @@
 ---
 layout: post
 title: Visiting Netherlands
-subtitle: Life, Travel
-tags: [Engineering]
+tags: [Life,Travel]
 ---
-
-![Feynman](/img/feynman.jpeg)
