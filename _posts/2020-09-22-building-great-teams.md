@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Building great teams
-subtitle: Engineering , Craftsmanship et all.
+subtitle: Creating teams that create history
 tags: [Engineering]
 ---
-
-![Feynman](/img/feynman.jpeg)
