@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: At the intersection of Science and Humanities
+title: At the intersection of Engineering and Humanities
 
 # Short description of your site
 description: Personal musings on things I find interesting, mostly about Software Engineering, History and Economics.
@@ -24,6 +24,7 @@ description: Personal musings on things I find interesting, mostly about Softwar
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Reading : "reading"
 #   Resources:
 #     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #     - Learn markdown: "http://www.markdowntutorial.com/"
