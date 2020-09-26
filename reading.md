@@ -18,5 +18,5 @@ layout: page
 - [A Mathematician's Apology](https://www.goodreads.com/book/show/154060.A_Mathematician_s_Apology)
 
 
---
+---
 [Visit my Goodreads profile for more](https://www.goodreads.com/user/show/34013202-anand)
