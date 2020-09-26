@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Books
 ---
 
 ### Recently Read
