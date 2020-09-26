@@ -16,5 +16,5 @@ layout: page
 - [Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger](https://www.goodreads.com/book/show/944652.Poor_Charlie_s_Almanack)
 - [Shoe Dog](https://www.goodreads.com/book/show/27220736-shoe-dog)
 - [A Mathematician's Apology](https://www.goodreads.com/book/show/154060.A_Mathematician_s_Apology)
-***
+---
 [Visit my Goodreads profile for more](https://www.goodreads.com/user/show/34013202-anand)
