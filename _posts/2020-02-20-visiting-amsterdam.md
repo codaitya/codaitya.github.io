@@ -2,7 +2,7 @@
 layout: post
 title: Visiting Amsterdam
 subtitle: The canal city
-tags: [books, test]
+tags: [Travel, Life]
 ---
 
 In the third week of January I visited Amsterdam, the capital of Netherlands.
