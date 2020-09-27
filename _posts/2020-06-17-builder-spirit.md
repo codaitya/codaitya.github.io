@@ -12,5 +12,3 @@ Since then I have re-read parts of book multiple times and it still gives me joy
 
 So what does Builder Spirit and Feynman have in common and why I am writing about it. Feynman apart from being a noble prize winning physicist was a tinkerer at heart. He was involved in the Manhattan Project. He was also a part of the  investigative commission on the challenger disaster. He has been credited with pioneering the field of quantum computing and introducing the concept of nanotechnology.
 In today's terminology we would call him a true hacker.
-
-[TBC..]
