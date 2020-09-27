@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # --- General options --- #
 
 # url is the full website URL
@@ -11,33 +10,19 @@ baseurl: ""
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
-=======
-# Welcome to Beautiful Jekyll!
-# This config file is meant for settings that affect your entire website. When you first
-# set up your website you should go through all these settings and edit them, but after
-# the initial set up you won't need to come back to this file often.
->>>>>>> f52bbed1d9aed6895715aef789e2e85bff476de7
 
 # --- Required options --- #
 
 # Name of website
-<<<<<<< HEAD
 title: At the intersection of Engineering and Humanities
 
 # Short description of your site
 description: Personal musings on things I find interesting, mostly about Software Engineering, History and Economics.
-=======
-title: My Website
-
-# Your name to show in the footer
-author: Some Person
->>>>>>> f52bbed1d9aed6895715aef789e2e85bff476de7
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-<<<<<<< HEAD
   Reading : "reading"
 #   Resources:
 #     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -53,14 +38,6 @@ navbar-links:
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # title-img: /path/to/image
-=======
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
-# --- Logo --- #
->>>>>>> f52bbed1d9aed6895715aef789e2e85bff476de7
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
@@ -74,30 +51,19 @@ round-avatar: true
 #title-img: /path/to/image
 
 
-<<<<<<< HEAD
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Anand
-=======
-# --- Footer social media links --- #
->>>>>>> f52bbed1d9aed6895715aef789e2e85bff476de7
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-<<<<<<< HEAD
   #rss: true
 #   email: "someone@example.com"
   #facebook: codaitya
   github: codaitya
 #   twitter: codaitya
-=======
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
->>>>>>> f52bbed1d9aed6895715aef789e2e85bff476de7
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -124,24 +90,14 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-<<<<<<< HEAD
   twitter: false
   facebook: false
   google: false
   linkedin: false
-=======
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
->>>>>>> f52bbed1d9aed6895715aef789e2e85bff476de7
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-<<<<<<< HEAD
-url-pretty: "anandkotriwal.com"  # eg. "deanattali.com/beautiful-jekyll"
-=======
-url-pretty: "MyWebsite.com"
+url-pretty: "anandkotriwal.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -151,7 +107,6 @@ feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: true
->>>>>>> f52bbed1d9aed6895715aef789e2e85bff476de7
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
@@ -251,11 +206,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-<<<<<<< HEAD
 timezone: "GMT"
-=======
-timezone: "America/Toronto"
->>>>>>> f52bbed1d9aed6895715aef789e2e85bff476de7
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -297,4 +248,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
