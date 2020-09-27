@@ -9,8 +9,8 @@ Second, I read the book [Loonshots: How to Nurture the Crazy Ideas That Win Wars
 
 I will distill the learnings from above and my personal experience into points I believe go into making a great team.
 
--Hire well
--Enable psychological safety in the team :
--Involve people in the mission :  man on the moon.
--Structure of the organization :  quote safi bachall
--Allow people to bring their true self : 
+- **Hire well** : This is most 
+- Enable psychological safety in the team :
+- Involve people in the mission :  man on the moon.
+- tructure of the organization :  quote safi bachall
+- Allow people to bring their true self :
