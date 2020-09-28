@@ -14,7 +14,7 @@ I will distill the learnings from above and my personal experience into points I
 
 - **Enable psychological safety in the team** :
   In simpler terms you feel psychologically safe in your team if you can make mistakes and take risk without fear. If you are able to bring your true self to work everyday you are in a psychological safe team. Studies show that a psychologically safe teams have less anxiety among its members, people can speak out freely which promotes diverse view points, and they can innovate faster.
-  This is a great read.[High Performing teams need psychological safety](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it).
+  [High Performing teams need psychological safety](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it) is a great read.
 
 - **Involve people in the mission** :  
   > In 1962, President John F. Kennedy visited NASA for the first time. During his tour of the facility, he met a janitor who was carrying a broom down the hallway. The President then casually asked the janitor what he did for NASA, and the janitor replied, “I’m helping put a man on the moon.”
