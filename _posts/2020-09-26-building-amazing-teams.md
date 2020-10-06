@@ -6,7 +6,7 @@ tags: [Engineering, Work]
 ---
 Recently two things occurred which gave me a chance to think about this topic. Firstly, I had a great conversation on this topic with a co-worker on the team. They are a brilliant person and a great colleague. The points we discussed gave me good food for thought.
 
-Second, I read the book [Loonshots: How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries](https://www.goodreads.com/book/show/39863447-loonshots) written by a physicist turned biotech entrepreneur Safi Bachall. In the book he visits the history of the major breakthroughs of humankind and tries to find a common link across all of them. The finding is that the major predictor of the success is the organisational culture and structure of the team that is working on it. I would highly recommend the book, its an amazing read.
+Second, I read the book [Loonshots](https://www.goodreads.com/book/show/39863447-loonshots) written by a physicist turned biotech entrepreneur Safi Bachall. In the book he visits the history of the major breakthroughs of humankind and tries to find a common link across all of them. The finding is that the major predictor of the success is the organisational culture and structure of the team that is working on it. I would highly recommend the book, its an amazing read.
 
 I will distil my learnings from above and add my personal experience into points I believe go into making a great team.
 
@@ -22,9 +22,10 @@ I will distil my learnings from above and add my personal experience into points
   > In 1962, President John F. Kennedy visited NASA for the first time. During his tour of the facility, he met a janitor who was carrying a broom down the hallway. The President then casually asked the janitor what he did for NASA, and the janitor replied, “I’m helping put a man on the moon.”
 
   A workforce on mission can do wonders. When the people can derive meaning out of their work, they are motivated to put more than a hundred percent. People feel they have a stake in the game.
+  A corollary is, that teams having members aligned with the mission have great leaders steering the wheel. I am yet to come across such a team and not find a remarkable leadership team at the helm. Maybe its a self-fulfilling cycle of leaders and teams reinforcing each other.
 
 - **Structure of the organization incentivizes innovation** :
-  DARPA (Defense Advanced Research Projects Agency) is a research and development agency of the United States Department of Defense. It has been the cradle of many innovationa, internet being one of them. An excerpt from Loonshot
+  DARPA (Defense Advanced Research Projects Agency) is a research and development agency of the United States Department of Defense. It has been the cradle of many innovations, internet being one of them. An excerpt from Loonshot
   >DARPA’s structure has eliminated the benefit of spending any time on politics, of trying to sound smart in meetings and put down your colleagues by highlighting the warts in their nutty loonshots so that you can curry favor and win promotions.
   DARPA is run like a loose collection of small startups, with no career ladder. A hundred or so program managers each lead one project or field of research. They are granted an extraordinary degree of autonomy and visibility,
 
@@ -38,4 +39,5 @@ I will distil my learnings from above and add my personal experience into points
 
 - **People are hired to fit the organization's culture** :
   Hiring well is often taken as to include the technical competencies of the candidate. It goes well beyond that. You need people who can fit and shine within the culture of your orgaznization. If you can align your people with the vision of your organization you have an unstoppable work force.
+
 *To be continued*
