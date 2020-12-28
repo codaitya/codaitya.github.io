@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Faith of the heart
-subtitle: Star Trek EnterPrise theme song
+subtitle: Star Trek Enterprise theme song
 tags: [Life]
 ---
 
